@@ -43,3 +43,6 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Deep Learning 
+tensorflow==2.17.0
